@@ -2,7 +2,7 @@
   "name": "DateTimeChecker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leekongvine123.github.io/DateTimeChecker/",
+  "homepage": "https://leekongvine123.github.io/DateTimeChecker",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
